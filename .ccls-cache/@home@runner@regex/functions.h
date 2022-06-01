@@ -1,0 +1,2 @@
+void reading();
+void addaddress();
